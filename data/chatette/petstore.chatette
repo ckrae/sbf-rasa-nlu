@@ -1,0 +1,78 @@
+
+%[addPet]
+    addPet
+    add pet
+
+%[updatePet]
+    updatePet
+    update pet
+
+%[findPetsByStatus]
+    findPetsByStatus
+    find pet
+    find pet by status
+
+%[getPetById]
+    getPetById
+    get pet 
+    get pet by id
+
+%[updatePetWithForm]
+    updatePetWithForm
+    update pet
+    update pet with form
+
+%[deletePet]
+    deletePet
+    delete pet
+
+%[placeOrder]
+    placeOrder
+    place order
+
+%[getOrderById]
+    getOrderById
+    get order
+    get order by id
+
+%[deleteOrder]
+    deleteOrder
+    delete order
+
+%[getInventory]
+    getInventory
+    get inventory
+
+%[getUserByName]
+    getUserByName
+    get user by name
+
+%[updateUser]
+    updateUser
+    update user
+
+%[deleteUser]
+    deleteUser
+    delete user
+
+%[loginUser]
+    loginUser
+    login user
+
+%[logoutUser]
+    logoutUser
+    logout user
+
+%[createUser]
+    createUser
+    create user
+
+@[pet_status]
+    available
+    pending
+    sold
+
+@[order_status]
+    placed
+    approved
+    delivered

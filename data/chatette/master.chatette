@@ -1,0 +1,118 @@
+// Fed this file, Chatette will generate a dataset of sentences with two intents:
+// greeting the interlocutor and telling them what kind of cuisine the speaker
+// would want
+
+//================== Intent definitions =======================
+%[greet]
+    ~[&greet]
+
+%[bye]
+    ~[&bye]
+
+%[create_bot](400)
+    ~[&i want to] ~[&create] ~[bot] [please?]
+    ~[&can you?] ~[&create] ~[bot] [please?]
+
+%[bot_info]
+    Who are you
+    What can you do
+    What is your purpose
+    What do you like
+    Why are you here
+    Are you [real|human|bot]
+
+%[confirm]
+    yes
+    true
+    ok
+    okay
+    correct
+    yea
+    sure
+    affirmative
+    amen
+    fine
+    good
+    all right
+    exactly
+    aye
+    yep
+    positiv
+    approved
+    thats right
+    indeed
+    of course
+    that sounds good
+    correct
+    ye
+    y
+    \\uD83C\\uDD97
+    \\uD83D\\uDC4C
+    \\uD83D\\uDC4D
+
+%[deny]
+    no
+    n
+    false
+    nay
+    negative
+    [thats?] wrong
+    thats not [what i meant|true|right?]
+    not right
+    never
+    I don't think so
+    don't like that
+    no way
+    not really
+
+//================== Include =========================
+
+|petstore.chatette
+
+//================== Alias definitions =======================
+~[greet]
+    hi
+    hello
+    hey
+    yo
+    welcome
+    good morning
+    good evening
+    hey there
+
+~[bye]
+    bye
+    cu
+    adios
+    see you
+    bye bye
+    have a nice day
+    goodbye
+    see you around
+    see you later
+
+~[bot]
+    bot
+    [social|chat|chatter?] [bot|robot]
+    [dialogue|conversation|conversational] system
+
+~[create]
+    create
+    build
+    set up
+    make
+    construct
+    generate
+
+~[i want to]
+    [&i] ~[want] [to?]
+
+~[want]
+    [would?] [really?] [need|want|like]
+
+~[can you]
+    [can|would|could] you [be so kind and?]
+
+~[should be]
+    [should?] [be|have?]
+

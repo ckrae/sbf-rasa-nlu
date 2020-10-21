@@ -1,0 +1,2614 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Good evening"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Welcome"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Yo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "welcome"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Adios"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Cu"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Goodbye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Have a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "See you"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "See you around"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "See you later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "adios"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "cu"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "goodbye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "have a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see you"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see you around"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see you later"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Build social robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you Build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you Build dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you Construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you Construct chat robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you Make dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and Construct robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and Generate conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and generate conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and make chatter bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you be so kind and set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you construct chatter bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you construct social bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you create conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Can you set up social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Construct chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Construct dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Construct robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you Build conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you Construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you Construct chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you Create chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you Make robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you Set up dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and Build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and Construct dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you be so kind and make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you build social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Could you set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create social bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Create social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Generate conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Generate conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Generate robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I like Create robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I like to Build social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I like to Construct social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I like to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I need construct conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I need to Create social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I need to Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I need to generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I need to make robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I need to set up social robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like Generate conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like generate conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like to Construct social robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like to build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like to build conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really like to construct social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need Set up chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need create conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need set up social robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need to Construct dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need to Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need to Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really need to make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want Generate chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want construct conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want create dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want create robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want to Construct chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want to build social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want to create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want to generate robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I really want to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want Construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want Generate dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want to Build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want to Construct chatter bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want to Make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want to create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I want to create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like Build conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like to Construct conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like to Set up chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like to build dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like to create social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would like to generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need Build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need Generate chatter bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need Set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need make conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would need to Make chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like to Build robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like to Generate dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like to make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like to set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really like to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need Build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need Build dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need Generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need Set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need Set up dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need build dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need construct chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need construct conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need set up dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need to Set up chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need to build chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really need to set up conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want construct dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want create conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want to Generate chat robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want to Set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want to build robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would really want to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want Construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want Generate dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want Set up robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want to Construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want to Set up dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "I would want to construct conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Make conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Make conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Make dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up chatter bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Set up robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and Build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and Create chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and Generate chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and build dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and construct conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and create conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you be so kind and create dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you make conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "Would you set up chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "build robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you Build dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you Generate dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you Make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you be so kind and Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you be so kind and Set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you be so kind and make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you be so kind and set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you be so kind and set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you build chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you construct chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you make conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you make conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "can you set up robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "construct dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "construct robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "construct social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you Build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you Build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you Construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you Construct chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you Create conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you Set up chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you be so kind and Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you be so kind and Make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you be so kind and Set up conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you be so kind and build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you be so kind and construct social bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you create conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "could you make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "create chat robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "create conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "create conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "create robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "generate robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like Set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like Set up chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like create conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like set up robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to Build conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to build conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to build conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to construct conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to create dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to create robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i like to set up dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i need Build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i need Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i need to Construct social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i need to Make dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i need to construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i need to create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like Build social robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like Set up chatter bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like construct conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like create chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like to construct robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really like to make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need Build chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need construct conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need to Set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need to build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need to construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really need to generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really want build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really want set up dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really want to Create conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really want to Make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really want to build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i really want to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want construct chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want construct chat robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want to Build chatter bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want to Construct dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want to create conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i want to generate social robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like Build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like Set up dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like make chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like to Create social robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like to Generate chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like to Set up social bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like to build robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like to create robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would like to set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need Generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need set up chatter bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need to Generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need to Make dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need to Set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need to construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would need to set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like Build bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like Generate conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like create conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like generate dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like to Build chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like to build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like to construct chat bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like to create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really like to create chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need Build dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need Construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need Make conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need to Construct dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need to Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need to Generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need to Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need to set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really need to set up chatter bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want Generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want construct chat robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want to Create dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want to Generate dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want to construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would really want to make robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want construct bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want to Construct dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want to Create conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want to create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want to create conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "i would want to set up conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "make chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "make dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "make dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "make robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "set up bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "set up chat bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "set up conversational system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "set up conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you Build bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you Create bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you Create dialogue system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you Make conversation system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you Set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Build chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Construct bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Generate conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and Set up bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and construct chat robot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and create bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and create chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and generate bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and generate conversation system"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and make conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you be so kind and set up dialogue system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you construct conversational system please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you create chatter robot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you generate bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you make bot"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you make bot please"
+      },
+      {
+        "entities": [],
+        "intent": "create_bot",
+        "text": "would you make chatter robot"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "Are you bot"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "Are you human"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "Are you real"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "What can you do"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "What do you like"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "What is your purpose"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "Who are you"
+      },
+      {
+        "entities": [],
+        "intent": "bot_info",
+        "text": "Why are you here"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "\\uD83C\\uDD97"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "\\uD83D\\uDC4C"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "\\uD83D\\uDC4D"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "affirmative"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "all right"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "amen"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "approved"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "aye"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "correct"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "exactly"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "fine"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "good"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "indeed"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "of course"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "ok"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "okay"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "positiv"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "sure"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "that sounds good"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "thats right"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "true"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "y"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "ye"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "yea"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "yep"
+      },
+      {
+        "entities": [],
+        "intent": "confirm",
+        "text": "yes"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "I don't think so"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "don't like that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "false"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "n"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nay"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "negative"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "never"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no way"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not really"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not right"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats not"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats not right"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats not true"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats not what i meant"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats wrong"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "wrong"
+      },
+      {
+        "entities": [],
+        "intent": "addPet",
+        "text": "add pet"
+      },
+      {
+        "entities": [],
+        "intent": "addPet",
+        "text": "addPet"
+      },
+      {
+        "entities": [],
+        "intent": "updatePet",
+        "text": "update pet"
+      },
+      {
+        "entities": [],
+        "intent": "updatePet",
+        "text": "updatePet"
+      },
+      {
+        "entities": [],
+        "intent": "findPetsByStatus",
+        "text": "find pet"
+      },
+      {
+        "entities": [],
+        "intent": "findPetsByStatus",
+        "text": "find pet by status"
+      },
+      {
+        "entities": [],
+        "intent": "findPetsByStatus",
+        "text": "findPetsByStatus"
+      },
+      {
+        "entities": [],
+        "intent": "getPetById",
+        "text": "get pet"
+      },
+      {
+        "entities": [],
+        "intent": "getPetById",
+        "text": "get pet by id"
+      },
+      {
+        "entities": [],
+        "intent": "getPetById",
+        "text": "getPetById"
+      },
+      {
+        "entities": [],
+        "intent": "updatePetWithForm",
+        "text": "update pet"
+      },
+      {
+        "entities": [],
+        "intent": "updatePetWithForm",
+        "text": "update pet with form"
+      },
+      {
+        "entities": [],
+        "intent": "updatePetWithForm",
+        "text": "updatePetWithForm"
+      },
+      {
+        "entities": [],
+        "intent": "deletePet",
+        "text": "delete pet"
+      },
+      {
+        "entities": [],
+        "intent": "deletePet",
+        "text": "deletePet"
+      },
+      {
+        "entities": [],
+        "intent": "placeOrder",
+        "text": "place order"
+      },
+      {
+        "entities": [],
+        "intent": "placeOrder",
+        "text": "placeOrder"
+      },
+      {
+        "entities": [],
+        "intent": "getOrderById",
+        "text": "get order"
+      },
+      {
+        "entities": [],
+        "intent": "getOrderById",
+        "text": "get order by id"
+      },
+      {
+        "entities": [],
+        "intent": "getOrderById",
+        "text": "getOrderById"
+      },
+      {
+        "entities": [],
+        "intent": "deleteOrder",
+        "text": "delete order"
+      },
+      {
+        "entities": [],
+        "intent": "deleteOrder",
+        "text": "deleteOrder"
+      },
+      {
+        "entities": [],
+        "intent": "getInventory",
+        "text": "get inventory"
+      },
+      {
+        "entities": [],
+        "intent": "getInventory",
+        "text": "getInventory"
+      },
+      {
+        "entities": [],
+        "intent": "getUserByName",
+        "text": "get user by name"
+      },
+      {
+        "entities": [],
+        "intent": "getUserByName",
+        "text": "getUserByName"
+      },
+      {
+        "entities": [],
+        "intent": "updateUser",
+        "text": "update user"
+      },
+      {
+        "entities": [],
+        "intent": "updateUser",
+        "text": "updateUser"
+      },
+      {
+        "entities": [],
+        "intent": "deleteUser",
+        "text": "delete user"
+      },
+      {
+        "entities": [],
+        "intent": "deleteUser",
+        "text": "deleteUser"
+      },
+      {
+        "entities": [],
+        "intent": "loginUser",
+        "text": "login user"
+      },
+      {
+        "entities": [],
+        "intent": "loginUser",
+        "text": "loginUser"
+      },
+      {
+        "entities": [],
+        "intent": "logoutUser",
+        "text": "logout user"
+      },
+      {
+        "entities": [],
+        "intent": "logoutUser",
+        "text": "logoutUser"
+      },
+      {
+        "entities": [],
+        "intent": "createUser",
+        "text": "create user"
+      },
+      {
+        "entities": [],
+        "intent": "createUser",
+        "text": "createUser"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

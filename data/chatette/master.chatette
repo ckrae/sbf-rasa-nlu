@@ -1,18 +1,45 @@
-// Fed this file, Chatette will generate a dataset of sentences with two intents:
-// greeting the interlocutor and telling them what kind of cuisine the speaker
-// would want
-
-//================== Intent definitions =======================
 %[greet]
     ~[&greet]
 
 %[bye]
     ~[&bye]
 
-%[create_bot](400)
+%[createBot](300)
     ~[&i want to] ~[&create] ~[bot] [please?]
     ~[&can you?] ~[&create] ~[bot] [please?]
 
+%[trainNlu]
+    train nlu 
+    train understanding
+    train nlu module
+    train language understanding
+
+%[createNlu]
+    create nlu 
+    create understanding
+    create nlu module
+    create language understanding
+    create intents
+    new nlu
+    create new nlu module
+
+%[activateBot]
+    activate
+    activate bot
+    I want a active bot
+    please activate my bot
+
+%[deactivateBot]
+   deactivate
+   deactivate bot
+   stop 
+   please deactivate my bot
+
+%[getBots]
+   What are the bot 
+   Which bots are running
+   What are the avaiable bots
+   
 %[bot_info]
     Who are you
     What can you do
@@ -65,9 +92,10 @@
     no way
     not really
 
+
 //================== Include =========================
 
-|petstore.chatette
+|weather.chatette
 
 //================== Alias definitions =======================
 ~[greet]

@@ -14,7 +14,7 @@
 
 %[getPetById]
     getPetById
-    get pet 
+    get pet
     get pet by id
 
 %[updatePetWithForm]

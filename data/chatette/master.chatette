@@ -4,7 +4,7 @@
 %[bye]
     ~[&bye]
 
-%[createBot](300)
+%[createBot](200)
     ~[&i want to] ~[&create] ~[bot] [please?]
     ~[&can you?] ~[&create] ~[bot] [please?]
 
@@ -48,6 +48,25 @@
     Why are you here
     Are you [real|human|bot]
 
+%[howlong]
+   How long does it take
+   How long will it take
+   How much longer
+   When is it ready
+   Are you ready soon
+   Does it always take so long
+   This takes too long
+   is it already done
+   hurry up
+   
+%[whatis_nlu]
+   What is Language Understanding
+   What is a NLU Module
+   Please explain me nlu
+   Please explain me language understanding
+   i dont undertstand language understanding
+   What is the benefit of the nlu module
+      
 %[confirm]
     yes
     true
